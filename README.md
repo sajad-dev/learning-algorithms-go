@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/Golang-1.21-blue?logo=go" alt="Go Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg?style=flat" alt="Status">
 </p>
 
 This project implements a variety of algorithms for Machine Learning, Deep Learning, and Reinforcement Learning using Go. It includes algorithms such as ANN (Artificial Neural Network), SVM (Support Vector Machine), Logistic Regression, Regression, Decision Tree, Random Forest, and Q-learning.
