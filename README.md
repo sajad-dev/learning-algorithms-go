@@ -1,7 +1,6 @@
 # Machine Learning, Deep Learning, and Reinforcement Learning Algorithms in Go
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-1.21-blue?logo=go" alt="Go Version">
-  <img src="https://img.shields.io/github/last-commit/sajad-dev/learning-algorithms-go?label=Last%20Commit&logo=github" alt="Last Commit">
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat" alt="License">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat" alt="Version">
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg?style=flat" alt="Status">
